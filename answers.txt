@@ -1,1 +1,6 @@
-Write your answers here.
+1. input, storage, processing, and output
+2. a dingbat is a special character not on a standard keyboard. It could be a shape or 
+variation of a standard letter. An exampleuse for a dingbat could be a symbol like a 
+trademark®
+3. 
+
